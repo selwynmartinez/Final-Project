@@ -10,6 +10,10 @@ body {
     margin: 0;
     padding: 0;
     background: #000000;
+    background: url('../finale/images/shop.jpg') center/cover no-repeat;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
     color: #3a3a3a;
 }
 
